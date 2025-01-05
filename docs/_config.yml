@@ -32,7 +32,8 @@ url: "brisarah404.github.io" # the base hostname & protocol for your site, e.g. 
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
+- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
