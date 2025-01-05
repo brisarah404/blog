@@ -30,7 +30,7 @@ url: "brisarah404.github.io" # the base hostname & protocol for your site, e.g. 
 #github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
